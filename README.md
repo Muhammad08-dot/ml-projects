@@ -9,7 +9,7 @@ Machine learning projects collection focusing on automation and data tools.
 ### 🤖 Bot Finder
 ML model for detecting and identifying bot accounts
 - **Tech Stack**: Python, scikit-learn
-- **Status**: In development
+- **Status**: Active
 
 ### 📊 Dataset Finder Bot
 Streamlit application for discovering relevant ML datasets
